@@ -28,7 +28,9 @@ http://localhost:8080 or http://127.0.0.1:8080/
 
 You can also navigate to note page
 
-```http://localhost:8080/notes
+```
+http://localhost:8080/notes
+
 ```
 
 
